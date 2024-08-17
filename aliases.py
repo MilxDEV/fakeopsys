@@ -1,0 +1,5 @@
+cmd_ext = ["exit", "kilépés", "ext"]
+cmd_calc = ["calculator", "calc", "számológép", "szamologep"]
+cmd_time = ["time", "idő"]
+cmd_clr = ["cclear", "clear", "clr"]
+cmd_hlp = ["help", "commands","segítség","parancsok"]
